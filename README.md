@@ -46,3 +46,4 @@ So we said that when laptop is the Asset Type, the Laptop Serial Number, Urgency
 ![](https://github.com/CodeWithLuwam/August-5-Data-Policies/blob/main/Images/Pick%20Field%20Name%20Laptop%20Serial%20Number.png?raw=true) <br>
 Submitting will bring us back to the Data Policy Rule record and we can see the Field name we just added in the Data Policy Rules menu. <br>
 ![](https://github.com/CodeWithLuwam/August-5-Data-Policies/blob/main/Images/Confirm%20New%20Field%20Name%20Added.png?raw=true) <br>
+We will repeat the process for Urgency and Employee. <br>
