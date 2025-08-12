@@ -63,7 +63,7 @@ Submitting will bring us back to the Data Policy Rule record and we can see the 
 
 ### Testing
 
-1. Navigate to: **All  > DXC Technology Devices > Device Inventory -->** *(links to (Asset Recovery Request table)* <br>
+1. Navigate to: **All  > DXC Technology Devices > Device Inventory -->** *(links to Asset Recovery Request table)* <br>
 2. Create a new record <br>
 3. Set **Asset Type** to **Laptop** <br>
 4. Confirm that **Laptop Serial Number**, **Urgency** and **Employee** are now mandatory. <br>
