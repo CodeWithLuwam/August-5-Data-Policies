@@ -46,4 +46,12 @@ So we said that when laptop is the Asset Type, the Laptop Serial Number, Urgency
 ![](https://github.com/CodeWithLuwam/August-5-Data-Policies/blob/main/Images/Pick%20Field%20Name%20Laptop%20Serial%20Number.png?raw=true) <br>
 Submitting will bring us back to the Data Policy Rule record and we can see the Field name we just added in the Data Policy Rules menu. <br>
 ![](https://github.com/CodeWithLuwam/August-5-Data-Policies/blob/main/Images/Confirm%20New%20Field%20Name%20Added.png?raw=true) <br>
-We will repeat the process for Urgency and Employee. <br>
+Repeat the process for Urgency and Employee. <br>
+
+### Test
+
+All  > DXC Technology Devices > Device Inventory --> links to (Asset Recovery Request table) <br>
+Create New <br>
+Set the Asset Type Laptop - condition to be triggered, we see then that *Laptop Serial Number, *Urgency and *Employee <br>
+![](https://github.com/CodeWithLuwam/August-5-Data-Policies/blob/main/Images/Asset%20Type%20Triggers%20Madatory%20Fields.png?raw=true) <br>
+
